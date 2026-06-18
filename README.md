@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**giovannacode/giovannacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Giovanna, Systems Analysis & Development Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+My background combines technology, business operations, and customer-focused problem-solving. The main goal here would be building solutions, analyzing data, improving processes, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm expanding my knowledge in software development, data analysis, and business systems while pursuing degrees also in Financial Management.
+
+---
+
+## 🚀 About Me
+
+* 🎓 Associate Degree in Systems Analysis and Development (Unilasalle)
+* 📚 Associate Degree in Financial Management (UniRitter)
+* 📊 Interested in Data Analysis, Business Intelligence, and Automation
+* 🌱 Currently learning Python, JavaScript, C, SQL, and Software Engineering fundamentals
+
+---
+
+## 💻 Technical Skills
+
+### Tools & Technologies I'm exploring
+
+* Git
+* VS Code
+* Linux Fundamentals
+* Tableau
+* Power BI 
